@@ -1,0 +1,51 @@
+﻿  lab_3.cpp
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(18,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(19,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(39,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(51,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(69,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(70,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(89,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(120,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(121,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(179,27): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(179,52): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(180,27): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(180,52): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(181,27): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(181,52): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(182,30): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\olegk\source\repos\lab_3\lab_3.cpp(182,58): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  lab_3.vcxproj -> C:\Users\olegk\source\repos\lab_3\x64\Debug\lab_3.exe
